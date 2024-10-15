@@ -92,7 +92,7 @@ const CONFIG = {
     'Django',
     'Java',
     'JavaScript',
-    'TypeScript'
+    'TypeScript',
     'React.js',
     'Next.js',
     'Node.js',
