@@ -98,7 +98,7 @@ const CONFIG = {
     'Node.js',
     'Flutter',
     'SQL (MySQL, Postgres)',
-    'NoSQL (MongoDB)'
+    'NoSQL (MongoDB)',
     'Git',
     'Docker',
     'AWS',
