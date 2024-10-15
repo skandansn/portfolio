@@ -125,13 +125,13 @@ const CONFIG = {
       name: 'AWS Academy Cloud Foundations',
       body: '',
       year: '',
-      link: '',
+      link: 'https://www.credly.com/badges/5578625f-559f-44e5-b577-043e19c468c5/public_url',
     },
      {
       name: 'AWS Academy Cloud Architecting',
       body: '',
       year: '',
-      link: '',
+      link: 'https://www.credly.com/badges/4df1064d-e88e-45bc-a8ce-7fc4f53065af/public_url',
     },
   ],
   educations: [
