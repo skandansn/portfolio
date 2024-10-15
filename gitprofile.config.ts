@@ -16,7 +16,7 @@ const CONFIG = {
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
+        sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
@@ -137,7 +137,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Northeastern University',
-      degree: 'Master of Science in Computer Science (MS CS)',
+      degree: 'Master of Science in Computer Science',
       from: '2023',
       to: '2025',
     },
